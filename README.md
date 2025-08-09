@@ -8,7 +8,7 @@ You can search any movie and receive instant results.
 
 To clone the repository,
 
-git clone https://[github.com/your-username/your-repo][https://github.com/vvarss/MovieQuest].git
+git clone https://github.com/vvarss/MovieQuest.git
 
 Install dependencies,
 
